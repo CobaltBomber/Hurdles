@@ -36,7 +36,7 @@ public class TimeKeeper : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown("space"))
+        if (Input.GetKeyDown("e"))
         {
             raceStarted = true;
             Destroy(startText);

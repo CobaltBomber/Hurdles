@@ -7,6 +7,7 @@ TagManager:
   - Jump
   - Stop
   - Finishline
+  - Hurdle
   layers:
   - Default
   - TransparentFX
